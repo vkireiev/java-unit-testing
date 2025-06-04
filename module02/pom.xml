@@ -4,12 +4,12 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ua.vkireiev</groupId>
-    <artifactId>testing</artifactId>
+    <groupId>ua.vkireiev.testing</groupId>
+    <artifactId>module02</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>module02</module>
+        <module>exercise0201</module>
     </modules>
 
     <properties>
