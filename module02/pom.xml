@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>exercise0201</module>
+        <module>exercise0202</module>
     </modules>
 
     <properties>
