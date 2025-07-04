@@ -11,6 +11,7 @@
     <modules>
         <module>exercise0801</module>
         <module>exercise0802</module>
+        <module>exercise0803</module>
     </modules>
 
     <properties>
